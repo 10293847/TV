@@ -3,7 +3,7 @@ TV
 pilot i telewizorek
 
 żadno urządzenie nie ma pojęcia o istnieniu drugiego;
-pilot ma 5 funkji - przesyła 'rozkaz' włączenia/wyłączenia urządzenia [jakiegoś];  przełączenia kanału +/- &
+pilot ma 5 funkcji -> przesyła 'rozkaz' włączenia/wyłączenia urządzenia [jakiegoś];  przełączenia kanału +/- &
 zgłośnienia/zciszenia [o 1...bo to bardzo stary model jest];
 
 telewizor zapamiętuje ustawienia kanału i głośności; 
