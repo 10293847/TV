@@ -27,11 +27,7 @@ int main()
       cout << "\nchoose the option: ";
       cin >>aaa;
 
-      if(aaa=='1'){a.receive(b.send(aaa));cout<<a;}
-      else if(aaa=='2'){a.receive(b.send(aaa));cout<<a;}
-      else if(aaa=='3'){a.receive(b.send(aaa));cout<<a;}
-      else if(aaa=='4'){a.receive(b.send(aaa));cout<<a;}
-      else if(aaa=='5'){a.receive(b.send(aaa));cout<<a;}
+        a.receive(b.send(aaa));
     }
     cout << "\n\ngame over...\n\n";
 
