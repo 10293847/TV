@@ -61,10 +61,6 @@ void TV::receive(int a)
     if (volume == 0) volume=0;
     else volume--;
   }
-  else
-  {
-    cout << "..TV is still off\t";
-  }
 }
 
 
