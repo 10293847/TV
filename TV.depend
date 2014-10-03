@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1412322220 source:/home/student/Desktop/TV/main.cpp
+	<iostream>
+	<string>
+	<climits>
+	<cstdlib>
+	"class.h"
+
+1412326426 source:/home/student/Desktop/TV/class.cpp
+	<iostream>
+	"class.h"
+
+1412326279 /home/student/Desktop/TV/class.h
+	<iostream>
+
+1412351063 source:/home/pio/Pulpit/piatek!!!/TV/main.cpp
+	<iostream>
+	<string>
+	<climits>
+	<cstdlib>
+	"class.h"
+
+1412350950 /home/pio/Pulpit/piatek!!!/TV/class.h
+	<iostream>
+
+1412351018 source:/home/pio/Pulpit/piatek!!!/TV/class.cpp
+	<iostream>
+	"class.h"
+
+1412352427 source:/home/pio/Pulpit/TV2/main.cpp
+	<iostream>
+	<string>
+	<climits>
+	<cstdlib>
+	"class.h"
+
+1412352534 /home/pio/Pulpit/TV2/class.h
+	<iostream>
+
+1412352554 source:/home/pio/Pulpit/TV2/class.cpp
+	<iostream>
+	"class.h"
+
