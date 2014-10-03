@@ -38,25 +38,25 @@ void TV::receive(int a)
     is_on = false;
   }
 
-  else if(a == 1111)
+  else if(a == 1111 && is_on == true)
   {
     if (channel == 99) channel=0;
     else channel++;
   }
 
-  else if(a == 2222)
+  else if(a == 2222 && is_on == true)
   {
     if (channel == 0) channel=99;
     else channel--;
   }
 
-  else if(a == 3333)
+  else if(a == 3333 && is_on == true)
   {
     if (volume == 99) volume=99;
     else volume++;
   }
 
-  else if(a == 4444)
+  else if(a == 4444 && is_on == true)
   {
     if (volume == 0) volume=0;
     else volume--;
