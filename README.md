@@ -12,3 +12,7 @@ pilot wysyła rozkaz...jako częstotliwość
 i telewizorek też rozkazy odbiera 'w ten sposób' - i jeśli akurat w zestawie telewizorka jest pasujące działanie-
 to jest ono wykonywane;
 
+
+aaaaaaaaa.....och ojoj jeju jeju ...po łangielsku złobione... ze tes mi się chciało... tfu
+
+
