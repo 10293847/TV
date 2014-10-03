@@ -12,5 +12,3 @@ pilot wysyła rozkaz...jako częstotliwość
 i telewizorek też rozkazy odbiera 'w ten sposób' - i jeśli akurat w zestawie telewizorka jest pasujące działanie-
 to jest ono wykonywane;
 
-czyli równie dobrze możemy tym pilotem włączyć nawet lodówkę
-
